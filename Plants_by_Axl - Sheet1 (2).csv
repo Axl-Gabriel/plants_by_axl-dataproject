@@ -1,0 +1,51 @@
+Plant species,Type,Colour,Climate,Fruiting,Thorned,Size,Flowering,Difficulty,Rarity,Price
+Bird-of-Paradise,Flower,"Any from Orange, White ,Yellow with Blue and Green",Tropical,No,No,Medium,Yes,7/10,Rare,$30-$100
+Apple tree,Fruiting Tree,"Red, White, Green, Grey",Temperate,Yes,No,Large,Yes,5/10,Common,$59-$109
+Desert Willow,Tree,"Pink,Grey,Green",Arid,No,Yes,Large,Yes,6/10,Uncommon,$50-$150
+Snake plant,Succulent,Yellow with Green/ Green and Grey,"Tropical, termperate",No,No,Small,Yes,1/10,Common,$25-$75
+Jade plant,Succulent,"Green, Grey","Tropical, Arid",No,No,Small,Yes,2/10,Uncommon,$25-$75
+Rhododendron,Shrubs,"Red/Blue/White/Yellow, green","Tropical, termperate",No,No,Medium,Yes,4/10,Common - Rare,$79-$250
+Ghost Orchid,Orchids,"White, Green",Tropical,No,No,Tiny,Yes,10/10,Extremely Rare,Undefined
+Angel wings,Succulent,"White, Light Red, Pink, Green",Tropical,No,No,Small,Yes,3/10,Uncommon,$40-$60
+Bouganvillea,Shrubs,Any colour ,"Tropical, Arid, Temperate",No,Yes,Medium,Yes,4/10,Rare,$9-$27
+Japanese wisteria,Shrubs/Tree,"Purple, White, Brown, Green",Temperate,No,No,Large - Medium,Yes,7/10,Very Rare,$30-$45
+Spider lily,Flower,"Red or White, Green","Tropical, Temperate",No,No,Small,Yes,5/10,Common,$5-$25
+Giant Taro,Vegetable,"Green, Brown",Tropical,No,No,Large,No,6/10,Uncommon,$29-$40
+Lignum-vitea tree,Tree,"Blue, Brown, Purple, Green",Tropical,Yes,No,Large,Yes,9/10,Especially rare,$100+
+Echeveria,Succulent,Any Colour,"Arid, Temperate",No,Yes,Tiny,Sometimes,2/10,Common - Very rare,$2-$39
+Desert Rose,Succulent,"Pink, Red, White, Green, Grey","Arid, Tropical",No,No,Small,Yes,3/10,Uncommon,$9-$15
+Burro's tail,Succulent,"Green, Grey",Arid,No,No,Tiny,Yes,2/10,Common,$3-$15
+Mango Tree,Fruiting Trees,"Orange, Green, Brown",Tropical,Yes,No,Large,Yes( but small ),4/10,Uncommon,$5-$39
+Moon Orchid,Orchids,"White, Light yellow, Green",Tropical,No,No,Tiny - Small,Yes,6/10,Especially Rare,$30+
+Raspberry bush,Fruiting bushes,"Red, Green, Grey",Temperate,Yes,Yes,Small,Yes,4/10,Uncommon,$3-$15
+Hibiscus,Shrubs,"Pink/Red/Yellow/White, Green","Tropical, temperate",No,No,Medium,Yes,3/10,Uncommon,$2-$10
+Monstera Deliciosa ,Vines,"Green, Brown, Yellow, fruit is Greenish",Tropical,Yes,No,Large,Yes,7/10,Rare,$15-$100+
+Pothos,Vines,"Green, Yellow, Blue, White",Tropical,No,No,Small,Yes,4/10,Uncommon,$1-$13
+Parrot Heliconia,Flower,"Green, Orange, Red",Tropical,No,No,Medium,Yes,3/10,Rare,~$12
+Grape Vine,Vines,"Red/Green/Purple, Brown, Green",Temperate,Yes,No,Medium,Yes,5/10,Uncommon,~$15
+Pine Tree,Tree,"Brown, Grey, Green",Temperate/Arid,No,No,Large,No,5/10,Uncommon/Especially Rare,$10-$300+
+Crown Cactus,Succulent,"Orange, White, Green",Arid,No,Yes,Medium,Yes,2/10,Common,$9-$19
+Autumn Sage,Shrubs,"Green, Purple",Temperate,No,No,Small,Yes,3/10,Common,$15-$40
+Chili Pepper,Shrubs,"Red, Green, Grey",Tropical,Yes,No,Small,Yes( but small ),2/10,Uncommon,$2-$30
+Japanese Cherry,Tree,"Pink, Brown",Temperate,No,No,Large,Yes,7/10,Rare,~$100
+White Spruce,Tree,"Green, Grey",Temperate,No,No,Large,No,6/10,Rare,~$50
+Sacred Lotus,Aquatic plant,"Pink, Yellow, Green","Temperate, Tropical",No,No,Medium,Yes,7/10,Rare,$20-$120
+Pond Weed,Aquatic Plant,Green,"Tropical, Arid, Temperate",No,No,Small,No,1/10,Common,~$10
+Pineapple,Succulent,"Yellow/Pink(rare), Green","Tropical, Arid",Yes,Yes,Small,Yes,5/10,Uncommon/Especially Rare,~$15-$100
+Banana plant,Fruiting plant,"Yellow/Blue(rare), Green",Tropical,Yes,No,Medium,Yes( but small ),3/10,Uncommon/Especially Rare,$10-undefined
+Duck weed,Aquatic Plant,Green,"Tropical, Arid, Temperate",No,No,Tiny,No,1/10,Common,$1-$3
+Lemon Tree,Fruiting Tree,"Yellow, Green, Brown",Temperate,Yes,Yes,Medium/Large,Yes,5/10,Rare,$50-$60
+Lavender,Flower,"Purple, Green",Temperate,No,No,Small/Tiny,Yes,3/10,Uncommon,$25-$60
+Passion Fruit,Vines,"Purple, Yellow, Green, White",Tropical,Yes,No,Medium,Yes,4/10,Rare,$1-$30
+Pumpkin,Vegetable/Vine,"Yellow/Orange/Green, Brown",Temperate,Yes,No,Medium,Yes,3/10,Uncommon,$2-$30
+String-of-Dolphins,Succulent,"Green, White, Yellow",Arid,No,No,Tiny,Yes,2/10,Uncommon,$5-$15
+String-of-Pearls,Succulent,Green,Arid,No,No,Tiny,Yes(rare),2/10,Uncommon,$3-$10
+Water Lettuce,Aquatic Plant,Green,Tropical/Temperate,No,No,Small,No,1/10,Common,$1-$2
+Chocolate Vine,Vines,"Purple, White, Green",Temperate,Yes,No,Medium,Yes,4/10,Rare,$15-$20
+Dragon Fruit,Vines/Succulent,"Yellow, Red, Green",Arid,Yes,Sometimes,Large,Yes,6/10,Rare,$9-$15
+Travelers Palm,Tree,"Green, Brown","Temperate, Tropical",Yes,No,Large,No,3/10,Uncommon,$20-$150
+Prickly Pear,Succulent,"Red, Green, Blue",Arid,Yes,Yes,Medium,Yes,3/10,Uncommon,~$15
+Morning Glory,Vine,"Blue, Green","Tropical, temperate",No,No,Medium,Yes,6/10,Rare,$2-$7
+Queen of the night,Succulent,"White, Yellow, Green","Tropical, Arid",Yes,No,Medium,Yes,6/10,Rare,$8-$15
+Natsurium,Flower,Any colour,"Temperate, Arid",No,No,Small,Yes,2/10,Common,$7-$12
+Blue Agave,Succulent,Blue,"Tropical, Arid, Temperate",Yes(but not edible),Yes,Large,Yes,7/10,Rare,$10-$25
